@@ -4,6 +4,10 @@ A modern, high-performance e-commerce mobile application built with Flutter. Thi
 
 ![App Logo](assets/images/logo.png)
 
+https://github.com/user-attachments/assets/a1d1d020-607d-4af9-ad81-4635d3d1a408
+
+
+
 ## Features
 
 -   **Modern UI/UX**: Compliant with Material 3 design guidelines.
